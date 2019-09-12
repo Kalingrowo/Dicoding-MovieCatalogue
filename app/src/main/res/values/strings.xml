@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="detail">Detail</string>
+    <string name="director">Director</string>
+    <string name="writers">Writers</string>
+    <string name="stars">Stars</string>
+</resources>
